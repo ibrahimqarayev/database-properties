@@ -1,2 +1,2 @@
-#Spring Boot 
-#Database connection attributes for the application.properties file
+# Spring Boot 
+# Database connection attributes for the application.properties file
