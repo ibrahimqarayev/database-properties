@@ -1,4 +1,6 @@
 # Spring Boot 
 # Database connection attributes for the application.properties file
 
-> MySQL
+```shell
+MySQL
+```
